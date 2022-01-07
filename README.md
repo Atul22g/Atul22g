@@ -22,11 +22,11 @@ To secure a challenging posting in a Reputable organization to expand my Learnin
 
 
 ### **Others**
-[![trophy](https://github-profile-trophy.vercel.app/?username=Atul22g)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atul22g)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Atul22g&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Atul22g)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Atul22g)](https://github.com/ryo-ma/github-profile-trophy)
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Atul22g)  
