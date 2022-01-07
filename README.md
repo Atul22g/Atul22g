@@ -16,7 +16,7 @@ To secure a challenging posting in a Reputable organization to expand my Learnin
 ### **Additional Information :)**
 - 🔭 I’m currently working on Repositories
 - 🌱 I’m currently learning Javascript 
-- 📫 How to reach me: Instagram ~ [@atul_.8570](https://www.instagram.com/atul_8570/)
+- 📫 How to reach me: Instagram ~ [@atul_.8570](https://www.instagram.com/atul_.8570/)
 - 💬 Ask me about Anything
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Listening the Music 
