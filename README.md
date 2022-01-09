@@ -17,7 +17,7 @@ To secure a challenging posting in a Reputable organization to expand my Learnin
 - 🔭 I’m currently working on Project
 - 🌱 I’m currently learning Javascript 
 - 📫 How to reach me: <br>
- Instagram ~ [@atul_22g](https://www.instagram.com/atul22g)<br>
+ Instagram ~ [@atul_22g](https://www.instagram.com/atul_22g)<br>
  Facebook  ~ [@atul22g](https://www.facebook.com/atul22g)
 - 💬 Ask me about Anything
 - 😄 Pronouns: he/him
