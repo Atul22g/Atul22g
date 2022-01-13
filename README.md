@@ -25,7 +25,12 @@ To secure a challenging posting in a Reputable organization to expand my Learnin
 
 
 ### **Connect With us :)**
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Atul22g)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/atul22g)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/atul_22g/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://atul22g.netlify.app/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Atul22g) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/atul22g) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/atul_22g/)
+
+### **My Projects :)**
+Project 1 ~ [@project1](https://atul22g.github.io/Project-1/)<br>
+Project 2 ~ [@project2](https://atul22g.github.io/Project-2/)
+Calculator ~ [@calculator](https://atul22g.github.io/calculator/)
 
 ### **Others :)**
 
