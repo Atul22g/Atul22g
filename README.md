@@ -29,7 +29,7 @@ To secure a challenging posting in a Reputable organization to expand my Learnin
 
 ### **My Projects :)**
 Project 1 ~ [@project1](https://atul22g.github.io/Project-1/)<br>
-Project 2 ~ [@project2](https://atul22g.github.io/Project-2/)
+Project 2 ~ [@project2](https://atul22g.github.io/Project-2/)<br>
 Calculator ~ [@calculator](https://atul22g.github.io/calculator/)
 
 ### **Others :)**
