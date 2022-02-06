@@ -32,7 +32,6 @@ Hi, My name is Atul and I am a Web Developer. I am Continuously learning and imp
 
 ### **My Projects :)**
 - Project 1 ~ [Project1](https://atul22g.github.io/Project-1/)<br>
-- Project 2 ~ [Project2](https://atul22g-project2.netlify.app)<br>
 - Calculator ~ [Calculator](https://atul22g.github.io/Calculator/)<br>
 - Clock ~ [Clock](https://atul22g.github.io/Clock/)
 
