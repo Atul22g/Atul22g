@@ -31,9 +31,10 @@ Hi, My name is Atul and I am a Web Developer. I am Continuously learning and imp
 - ⚡ Fun fact **Listening to Music and Poetry**
 
 ### **My Projects :)**
-- Project 1 ~ [Project1](https://atul22g.github.io/Project-1/)<br>
-- Calculator ~ [Calculator](https://atul22g.github.io/Calculator/)<br>
-- Clock ~ [Clock](https://atul22g.github.io/Clock/)
+- Project 1 ~ [@Project1](https://atul22g.github.io/Project-1/)<br>
+- Project 2 ~ [@Project2](https://atul22g.github.io/Project-2/)<br>
+- Calculator ~ [@Calculator](https://atul22g.github.io/Calculator/)<br>
+- Clock ~ [@Clock](https://atul22g.github.io/Clock/)
 
 
 <h3 align="center">A passionate frontend developer from India</h3>
