@@ -25,7 +25,7 @@ Hi, My name is Atul and I am a Web Developer. I am Continuously learning and imp
 
 ### **Additional Information :)**
 - 🔭 I’m currently working on **[@YouTube Clone](https://atul22g.github.io/YouTube-clone/)**
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Reactjs**
 - 📫 How to reach me **atul22g2468@gmail.com**
 - 💬 Ask me about **Anything**
 - 😄 Pronouns: **he/him**
