@@ -24,7 +24,7 @@ Hi, My name is Atul and I am a Web Developer. I am Continuously learning and imp
  
 
 ### **Additional Information :)**
-- 🔭 I’m currently working on **[@YouTube Clone](https://atul22g.github.io/YouTube-clone/)**
+- 🔭 I’m currently working on **[@netflix Clone](https://atul22g.github.io/netflix_clone/)**
 - 🌱 I’m currently learning **Reactjs**
 - 📫 How to reach me **atul22g2468@gmail.com**
 - 💬 Ask me about **Anything**
@@ -37,6 +37,7 @@ Hi, My name is Atul and I am a Web Developer. I am Continuously learning and imp
 - Calculator ~ [@Calculator](https://atul22g.github.io/Calculator/)<br>
 - Clock ~ [@Clock](https://atul22g.github.io/Clock/)
 - YouTube Clone ~ [@YouTube Clone](https://atul22g.github.io/YouTube-clone/)
+- netflix Clone ~ [@netflix Clone](https://atul22g.github.io/netflix_clone/)
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
