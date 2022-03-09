@@ -31,14 +31,6 @@ Hi, My name is Atul and I am a Web Developer. I am Continuously learning and imp
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact **Listening to Music and Poetry**
 
-### **My Projects :)**
-- Project 1 ~ [@Project1](https://atul22g.github.io/Project-1/)<br>
-- Project 2 ~ [@Project2](https://atul22g-project2.netlify.app)<br>
-- Calculator ~ [@Calculator](https://atul22g.github.io/Calculator/)<br>
-- Clock ~ [@Clock](https://atul22g.github.io/Clock/)
-- YouTube Clone ~ [@YouTube Clone](https://atul22g.github.io/YouTube-clone/)
-- netflix Clone ~ [@netflix Clone](https://atul22g.github.io/netflix_clone/)
-
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
