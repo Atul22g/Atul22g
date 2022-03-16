@@ -13,7 +13,9 @@ Hi, My name is Atul and I am a Web Developer. I am Continuously learning and imp
 - Linux
  
  <h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://fb.com/atul22g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atul22g" height="30" width="40" /></a><a href="https://instagram.com/atul_22g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atul_22g" height="30" width="40" /></a><a href="https://www.linkedin.com/in/Atul22g/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atul-gupta" height="30" width="40" /></a></p>
+<p align="left"><a href="https://fb.com/atul22g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atul22g" height="30" width="40" /></a><a href="https://instagram.com/atul_22g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atul_22g" height="30" width="40" /></a><a href="https://www.linkedin.com/in/Atul22g/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atul-gupta" height="30" width="40" /></a>
+<a href="https://codepen.io/atul22g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="atul22g" height="30" width="40" /></a>
+</p>
 
 
 
@@ -22,8 +24,8 @@ Hi, My name is Atul and I am a Web Developer. I am Continuously learning and imp
  
 
 ### **Additional Information :)**
-- 🔭 I’m currently working on **[@netflix Clone](https://atul22g.github.io/netflix_clone/)**
-- 🌱 I’m currently learning **Reactjs**
+- 🔭 I’m currently working on **[@Project-3](https://atul22g.github.io/Project-3/)**
+- 🌱 I’m currently learning **Figma and Sass**
 - 📫 How to reach me **atul22g2468@gmail.com**
 - 💬 Ask me about **Anything**
 - 😄 Pronouns: **he/him**
